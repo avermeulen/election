@@ -9,7 +9,7 @@
   "scripts": {
     "dev": "lite-server",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "contracts" : "merge-dirs ./contracts ./src"
+    "contracts" : "merge-dirs ./build/contracts ./src"
   },
   "author": "",
   "license": "ISC",
